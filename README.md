@@ -16,8 +16,11 @@ Environment: tested on MATLAB R2016b
 # Sample results using n=10^4 and p=10^-2
 
 Computing exact VNGE takes 37.6566 seconds
+
 Computing VNGE using FINGER (FAST) takes 0.35195 seconds
+
 The computation time reduction ratio is 99.0654%
+
 The scaled appromimation error is 0.039722
 
 
