@@ -3,6 +3,8 @@ MATLAB demo codes for fast von Neumann graph entropy computation method publishe
 
 Paper link: https://arxiv.org/abs/1805.11769
 
+Authors: Pin-Yu Chen, Lingfei Wu, Sijia Liu, Indika Rajapakse
+
 Environment: tested on MATLAB R2016b
 
 # Demo: compute von Newmann graph entropy (VNGE) using FINGER (FAST)
