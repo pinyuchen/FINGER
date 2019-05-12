@@ -8,7 +8,7 @@ Environment: tested on MATLAB R2016b
 # Demo: compute von Newmann graph entropy (VNGE) using FINGER (FAST)
 
 1. Run main_FINGER_demo.m
-2. The demo code first generates a Erdos-Renyi graph with n nodes and n*p average degree. Its connectivity patter is characterized by the adjacency matrix A
+2. The demo code first generates a Erdos-Renyi graph with n nodes and n*p average degree. Its connectivity pattern is characterized by the adjacency matrix A
 3. GraEntExact(A) computes the exact VNGE of A and reports the computation time
 4. VNGE_FINGER(A) uses FINGER (FAST) to compute the approximate VNGE of A and report the computation time
 5. The demo code also shows the scaled appromimation error (SAE) and computation time reduction ratio (CTRR)
